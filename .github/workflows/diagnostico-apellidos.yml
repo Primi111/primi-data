@@ -7,6 +7,7 @@ on:
     paths:
       - 'scripts/inspeccionar_apellidos.py'
       - '.github/workflows/diagnostico-apellidos.yml'
+      - 'scripts/convertir_apellidos.py'
 
 permissions:
   contents: read
@@ -24,6 +25,27 @@ jobs:
         run: python -m pip install 'xlrd==2.0.2'
       - name: Descargar e inspeccionar fichero INE
         run: python scripts/inspeccionar_apellidos.py
+      - name: Convertir fichero INE (solo si las cabeceras son inequívocas)
+        continue-on-error: true
+        run: |
+          python - <<'PY'
+          import urllib.request
+          url='https://www.ine.es/daco/daco42/nombyapel/apellidos_frecuencia.xls'
+          req=urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0 (compatible; PRIMI-DATA/1.3)'})
+          with urllib.request.urlopen(req,timeout=90) as response:
+              data=response.read(40000001)
+          if len(data)>40000000 or not data.startswith(bytes.fromhex('d0cf11e0')):raise ValueError('XLS no válido')
+          open('apellidos_ine.xls','wb').write(data)
+          PY
+          python scripts/convertir_apellidos.py apellidos_ine.xls ine-apellidos.json
+      - name: Guardar JSON de apellidos validado (sin publicar)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: apellidos-ine-candidatos
+          path: ine-apellidos.json
+          if-no-files-found: ignore
+          retention-days: 7
       - name: Guardar diagnóstico
         if: always()
         uses: actions/upload-artifact@v4
