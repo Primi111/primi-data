@@ -1,0 +1,377 @@
+{
+  "fuente": "https://www.ine.es/tnombres/formGeneral.do?L=0&vista=5",
+  "fecha_referencia": "2025-01-01",
+  "nombre": "PRIMITIVO",
+  "sexo": "H",
+  "alcance": "Municipios publicados en exportación aportada por usuario",
+  "total_municipios_publicados": 73,
+  "total_personas_en_municipios_publicados": 897,
+  "nota": "Municipios con menos de 5 personas no se muestran; ausencia no equivale a cero. No hay provincia codificada en la exportación.",
+  "registros": [
+    {
+      "municipio": "Vitoria-Gasteiz",
+      "personas": 19,
+      "por_mil": 0.15
+    },
+    {
+      "municipio": "Albacete",
+      "personas": 15,
+      "por_mil": 0.175
+    },
+    {
+      "municipio": "Alacant/Alicante",
+      "personas": 14,
+      "por_mil": 0.079
+    },
+    {
+      "municipio": "Elx/Elche",
+      "personas": 10,
+      "por_mil": 0.082
+    },
+    {
+      "municipio": "Elda",
+      "personas": 7,
+      "por_mil": 0.257
+    },
+    {
+      "municipio": "Orihuela",
+      "personas": 9,
+      "por_mil": 0.216
+    },
+    {
+      "municipio": "Petrer",
+      "personas": 5,
+      "por_mil": 0.298
+    },
+    {
+      "municipio": "Villena",
+      "personas": 7,
+      "por_mil": 0.401
+    },
+    {
+      "municipio": "Ávila",
+      "personas": 6,
+      "por_mil": 0.211
+    },
+    {
+      "municipio": "Don Benito",
+      "personas": 6,
+      "por_mil": 0.321
+    },
+    {
+      "municipio": "Palma",
+      "personas": 15,
+      "por_mil": 0.069
+    },
+    {
+      "municipio": "Badalona",
+      "personas": 9,
+      "por_mil": 0.079
+    },
+    {
+      "municipio": "Barcelona",
+      "personas": 40,
+      "por_mil": 0.049
+    },
+    {
+      "municipio": "Cornellà de Llobregat",
+      "personas": 5,
+      "por_mil": 0.112
+    },
+    {
+      "municipio": "Hospitalet de Llobregat, L'",
+      "personas": 11,
+      "por_mil": 0.077
+    },
+    {
+      "municipio": "Santa Coloma de Gramenet",
+      "personas": 8,
+      "por_mil": 0.131
+    },
+    {
+      "municipio": "Aranda de Duero",
+      "personas": 6,
+      "por_mil": 0.366
+    },
+    {
+      "municipio": "Burgos",
+      "personas": 36,
+      "por_mil": 0.423
+    },
+    {
+      "municipio": "Cádiz",
+      "personas": 8,
+      "por_mil": 0.154
+    },
+    {
+      "municipio": "Castelló de la Plana/Castellón de la Plana",
+      "personas": 8,
+      "por_mil": 0.09
+    },
+    {
+      "municipio": "Malagón",
+      "personas": 5,
+      "por_mil": 1.275
+    },
+    {
+      "municipio": "Puertollano",
+      "personas": 6,
+      "por_mil": 0.273
+    },
+    {
+      "municipio": "Arteixo",
+      "personas": 6,
+      "por_mil": 0.354
+    },
+    {
+      "municipio": "Coruña, A",
+      "personas": 11,
+      "por_mil": 0.094
+    },
+    {
+      "municipio": "Santiago de Compostela",
+      "personas": 6,
+      "por_mil": 0.128
+    },
+    {
+      "municipio": "Girona",
+      "personas": 5,
+      "por_mil": 0.095
+    },
+    {
+      "municipio": "León",
+      "personas": 14,
+      "por_mil": 0.248
+    },
+    {
+      "municipio": "Ponferrada",
+      "personas": 15,
+      "por_mil": 0.504
+    },
+    {
+      "municipio": "Villaquilambre",
+      "personas": 5,
+      "por_mil": 0.527
+    },
+    {
+      "municipio": "Logroño",
+      "personas": 12,
+      "por_mil": 0.168
+    },
+    {
+      "municipio": "Alcalá de Henares",
+      "personas": 8,
+      "por_mil": 0.082
+    },
+    {
+      "municipio": "Alcorcón",
+      "personas": 8,
+      "por_mil": 0.094
+    },
+    {
+      "municipio": "Collado Villalba",
+      "personas": 5,
+      "por_mil": 0.152
+    },
+    {
+      "municipio": "Fuenlabrada",
+      "personas": 8,
+      "por_mil": 0.086
+    },
+    {
+      "municipio": "Getafe",
+      "personas": 9,
+      "por_mil": 0.094
+    },
+    {
+      "municipio": "Leganés",
+      "personas": 14,
+      "por_mil": 0.149
+    },
+    {
+      "municipio": "Madrid",
+      "personas": 139,
+      "por_mil": 0.085
+    },
+    {
+      "municipio": "Móstoles",
+      "personas": 16,
+      "por_mil": 0.154
+    },
+    {
+      "municipio": "Parla",
+      "personas": 8,
+      "por_mil": 0.117
+    },
+    {
+      "municipio": "Pozuelo de Alarcón",
+      "personas": 6,
+      "por_mil": 0.14
+    },
+    {
+      "municipio": "Torrejón de Ardoz",
+      "personas": 7,
+      "por_mil": 0.099
+    },
+    {
+      "municipio": "Cartagena",
+      "personas": 6,
+      "por_mil": 0.055
+    },
+    {
+      "municipio": "Murcia",
+      "personas": 7,
+      "por_mil": 0.03
+    },
+    {
+      "municipio": "San Pedro del Pinatar",
+      "personas": 5,
+      "por_mil": 0.336
+    },
+    {
+      "municipio": "Pamplona/Iruña",
+      "personas": 11,
+      "por_mil": 0.111
+    },
+    {
+      "municipio": "Ourense",
+      "personas": 5,
+      "por_mil": 0.104
+    },
+    {
+      "municipio": "Avilés",
+      "personas": 5,
+      "por_mil": 0.139
+    },
+    {
+      "municipio": "Gijón",
+      "personas": 23,
+      "por_mil": 0.18
+    },
+    {
+      "municipio": "Langreo",
+      "personas": 7,
+      "por_mil": 0.38
+    },
+    {
+      "municipio": "Oviedo",
+      "personas": 12,
+      "por_mil": 0.116
+    },
+    {
+      "municipio": "Palencia",
+      "personas": 9,
+      "por_mil": 0.246
+    },
+    {
+      "municipio": "Palmas de Gran Canaria, Las",
+      "personas": 5,
+      "por_mil": 0.027
+    },
+    {
+      "municipio": "Telde",
+      "personas": 5,
+      "por_mil": 0.097
+    },
+    {
+      "municipio": "Vigo",
+      "personas": 7,
+      "por_mil": 0.05
+    },
+    {
+      "municipio": "Salamanca",
+      "personas": 20,
+      "por_mil": 0.305
+    },
+    {
+      "municipio": "Santander",
+      "personas": 9,
+      "por_mil": 0.111
+    },
+    {
+      "municipio": "Torrelavega",
+      "personas": 6,
+      "por_mil": 0.247
+    },
+    {
+      "municipio": "Segovia",
+      "personas": 5,
+      "por_mil": 0.205
+    },
+    {
+      "municipio": "Sevilla",
+      "personas": 11,
+      "por_mil": 0.034
+    },
+    {
+      "municipio": "Tortosa",
+      "personas": 12,
+      "por_mil": 0.653
+    },
+    {
+      "municipio": "Madridejos",
+      "personas": 5,
+      "por_mil": 0.988
+    },
+    {
+      "municipio": "Sonseca",
+      "personas": 6,
+      "por_mil": 1.034
+    },
+    {
+      "municipio": "Aldaia",
+      "personas": 5,
+      "por_mil": 0.287
+    },
+    {
+      "municipio": "Sagunt/Sagunto",
+      "personas": 7,
+      "por_mil": 0.195
+    },
+    {
+      "municipio": "València",
+      "personas": 12,
+      "por_mil": 0.03
+    },
+    {
+      "municipio": "Valladolid",
+      "personas": 39,
+      "por_mil": 0.276
+    },
+    {
+      "municipio": "Barakaldo",
+      "personas": 10,
+      "por_mil": 0.201
+    },
+    {
+      "municipio": "Bilbao",
+      "personas": 19,
+      "por_mil": 0.114
+    },
+    {
+      "municipio": "Portugalete",
+      "personas": 8,
+      "por_mil": 0.374
+    },
+    {
+      "municipio": "Santurtzi",
+      "personas": 8,
+      "por_mil": 0.358
+    },
+    {
+      "municipio": "Sestao",
+      "personas": 6,
+      "por_mil": 0.435
+    },
+    {
+      "municipio": "Zamora",
+      "personas": 11,
+      "por_mil": 0.398
+    },
+    {
+      "municipio": "Zaragoza",
+      "personas": 34,
+      "por_mil": 0.101
+    }
+  ]
+}

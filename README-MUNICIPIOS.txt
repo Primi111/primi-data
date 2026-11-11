@@ -1,0 +1,1 @@
+PRIMI DATA v1.0: 73 municipios, 897 personas publicadas, datos INE 01/01/2025. No representa el total nacional. El CSV original no proporciona provincias por municipio; no se asignan por inferencia. Copiar sobre carpeta anterior conservando data/ine-nombres.json.

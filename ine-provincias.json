@@ -1,0 +1,360 @@
+{
+  "fuente": "https://www.ine.es/tnombres/formGeneral.do?L=0&vista=1",
+  "fecha_referencia": "2025-01-01",
+  "alcance": "Provincias de residencia. Exportación oficial de PRIMITIVO, hombres",
+  "total_nacional": 2196,
+  "total_provincias_publicadas": 2195,
+  "nota": "La diferencia de 1 respecto al total nacional se debe a supresión de cifras inferiores a 5 en territorios.",
+  "registros": [
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Albacete",
+      "personas": 31,
+      "por_mil": 0.158
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Alicante/Alacant",
+      "personas": 102,
+      "por_mil": 0.101
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Almería",
+      "personas": 10,
+      "por_mil": 0.025
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Araba/Álava",
+      "personas": 26,
+      "por_mil": 0.154
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Asturias",
+      "personas": 110,
+      "por_mil": 0.227
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Ávila",
+      "personas": 19,
+      "por_mil": 0.235
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Badajoz",
+      "personas": 54,
+      "por_mil": 0.165
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Balears, Illes",
+      "personas": 25,
+      "por_mil": 0.04
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Barcelona",
+      "personas": 135,
+      "por_mil": 0.046
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Bizkaia",
+      "personas": 72,
+      "por_mil": 0.127
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Burgos",
+      "personas": 75,
+      "por_mil": 0.413
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Cáceres",
+      "personas": 47,
+      "por_mil": 0.244
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Cádiz",
+      "personas": 20,
+      "por_mil": 0.032
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Cantabria",
+      "personas": 39,
+      "por_mil": 0.136
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Castellón/Castelló",
+      "personas": 22,
+      "por_mil": 0.07
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Ciudad Real",
+      "personas": 38,
+      "por_mil": 0.155
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Córdoba",
+      "personas": 13,
+      "por_mil": 0.034
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Coruña, A",
+      "personas": 68,
+      "por_mil": 0.125
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Cuenca",
+      "personas": 18,
+      "por_mil": 0.178
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Gipuzkoa",
+      "personas": 24,
+      "por_mil": 0.067
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Girona",
+      "personas": 12,
+      "por_mil": 0.029
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Granada",
+      "personas": 18,
+      "por_mil": 0.039
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Guadalajara",
+      "personas": 12,
+      "por_mil": 0.083
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Huelva",
+      "personas": 5,
+      "por_mil": 0.019
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Huesca",
+      "personas": 11,
+      "por_mil": 0.094
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Jaén",
+      "personas": 13,
+      "por_mil": 0.042
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "León",
+      "personas": 87,
+      "por_mil": 0.399
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Lleida",
+      "personas": 11,
+      "por_mil": 0.047
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Lugo",
+      "personas": 28,
+      "por_mil": 0.177
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Madrid",
+      "personas": 298,
+      "por_mil": 0.087
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Málaga",
+      "personas": 7,
+      "por_mil": 0.008
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Murcia",
+      "personas": 35,
+      "por_mil": 0.044
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Navarra",
+      "personas": 39,
+      "por_mil": 0.115
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Ourense",
+      "personas": 21,
+      "por_mil": 0.143
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Palencia",
+      "personas": 33,
+      "por_mil": 0.419
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Palmas, Las",
+      "personas": 22,
+      "por_mil": 0.038
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Pontevedra",
+      "personas": 28,
+      "por_mil": 0.061
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Rioja, La",
+      "personas": 25,
+      "por_mil": 0.155
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Salamanca",
+      "personas": 78,
+      "por_mil": 0.49
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Santa Cruz de Tenerife",
+      "personas": 19,
+      "por_mil": 0.036
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Segovia",
+      "personas": 24,
+      "por_mil": 0.302
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Sevilla",
+      "personas": 34,
+      "por_mil": 0.035
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Soria",
+      "personas": 12,
+      "por_mil": 0.262
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Tarragona",
+      "personas": 41,
+      "por_mil": 0.094
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Teruel",
+      "personas": 17,
+      "por_mil": 0.245
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Toledo",
+      "personas": 62,
+      "por_mil": 0.163
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Valencia/València",
+      "personas": 86,
+      "por_mil": 0.064
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Valladolid",
+      "personas": 69,
+      "por_mil": 0.268
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Zamora",
+      "personas": 51,
+      "por_mil": 0.622
+    },
+    {
+      "nombre": "PRIMITIVO",
+      "sexo": "H",
+      "provincia": "Zaragoza",
+      "personas": 49,
+      "por_mil": 0.1
+    }
+  ]
+}
